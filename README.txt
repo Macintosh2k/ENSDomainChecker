@@ -2,6 +2,7 @@
 Check numerous domains faster than ever!
 
 ENSDOMAINCHECKER GUIDE
+
 Upon receiving the link or zip file follow these steps to start using the tool.
 1. Extract ZIP
 2. Launch ENSDomainChecker EXE/APP
